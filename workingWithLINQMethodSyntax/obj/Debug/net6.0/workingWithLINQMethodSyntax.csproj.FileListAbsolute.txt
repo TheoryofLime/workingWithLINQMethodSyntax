@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithLINQMethodSyntax\workingWithLINQMethodSyntax\bin\Debug\net6.0\workingWithLINQMethodSyntax.exe
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithLINQMethodSyntax\workingWithLINQMethodSyntax\bin\Debug\net6.0\workingWithLINQMethodSyntax.deps.json
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithLINQMethodSyntax\workingWithLINQMethodSyntax\bin\Debug\net6.0\workingWithLINQMethodSyntax.runtimeconfig.json
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithLINQMethodSyntax\workingWithLINQMethodSyntax\bin\Debug\net6.0\workingWithLINQMethodSyntax.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithLINQMethodSyntax\workingWithLINQMethodSyntax\bin\Debug\net6.0\workingWithLINQMethodSyntax.pdb
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithLINQMethodSyntax\workingWithLINQMethodSyntax\obj\Debug\net6.0\workingWithLINQMethodSyntax.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithLINQMethodSyntax\workingWithLINQMethodSyntax\obj\Debug\net6.0\workingWithLINQMethodSyntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithLINQMethodSyntax\workingWithLINQMethodSyntax\obj\Debug\net6.0\workingWithLINQMethodSyntax.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithLINQMethodSyntax\workingWithLINQMethodSyntax\obj\Debug\net6.0\workingWithLINQMethodSyntax.AssemblyInfo.cs
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithLINQMethodSyntax\workingWithLINQMethodSyntax\obj\Debug\net6.0\workingWithLINQMethodSyntax.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithLINQMethodSyntax\workingWithLINQMethodSyntax\obj\Debug\net6.0\workingWithLINQMethodSyntax.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithLINQMethodSyntax\workingWithLINQMethodSyntax\obj\Debug\net6.0\refint\workingWithLINQMethodSyntax.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithLINQMethodSyntax\workingWithLINQMethodSyntax\obj\Debug\net6.0\workingWithLINQMethodSyntax.pdb
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithLINQMethodSyntax\workingWithLINQMethodSyntax\obj\Debug\net6.0\workingWithLINQMethodSyntax.genruntimeconfig.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithLINQMethodSyntax\workingWithLINQMethodSyntax\obj\Debug\net6.0\ref\workingWithLINQMethodSyntax.dll
